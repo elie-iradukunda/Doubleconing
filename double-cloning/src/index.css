@@ -1,0 +1,11 @@
+@import "tailwindcss";
+@theme{
+  --shadow-3xl: 0 35px 35px rgba(0, 0, 0, 1.25);
+}
+
+
+@layer{
+  .w-bb{
+    height: 40px;
+  }
+}
